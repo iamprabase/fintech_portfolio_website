@@ -1,0 +1,14 @@
+node_modules
+node_modules/
+/cms/node_modules
+/cms/public/hot
+/cms/public/storage
+/cms/storage/*.key
+/cms/vendor
+/cms/.env
+/cms/.env.backup
+/cms/.phpunit.result.cache
+/cms/Homestead.json
+/cms/Homestead.yaml
+/cms/npm-debug.log
+/cms/yarn-error.log
